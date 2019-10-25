@@ -105,7 +105,7 @@ To help, here is a fully [working example](https://i.imgur.com/0dXELKX.gif).
 
 # Bonus
 
-There is lots of other data in the API response, such as "year", "month", "num", etc. Feel free to take that data and show it someone on the page. 
+There is lots of other data in the API response, such as "year", "month", "num", etc. Feel free to take that data and show it somewhere on the page. 
 
 This isn't required, but feel free to go beyond the requirements. 
 
