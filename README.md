@@ -29,6 +29,15 @@ The goals are:
 3. Create a Search Page, that allows you to search & load a specific comic
 4. Follow all directions outlined below
 
+## Pre-Requisites
+
+To ensure this runns properly, make sure the following are installed.
+
+- [Git](https://git-scm.com/)
+- [Yarn](https://yarnpkg.com/lang/en/)
+
+You'll also need a code editor and terminal, but you know that drill!
+
 ## Requirements
 
 First, head over to the [API website](https://xkcd.now.sh/) to get started. Feel free to make some test requests there to get a feeling for how the data will work.
