@@ -69,7 +69,7 @@ Second, start on your project.
 
 # Element Classes
 
-As you build the project, pay close attention to our class name requirements. This will help ensure your app passes our automated tests. It will also allow us to see how well you follow instructions.
+As you build the project, pay close attention to our CSS class name requirements. This will help ensure your app passes our automated tests. It will also allow us to see how well you follow instructions.
 
 ## Home Page
 
